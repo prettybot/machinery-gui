@@ -1,6 +1,6 @@
 ❗️❗️❗️WARNING
 
-it is just a working progress until it has a first release edition.
+It is a working project until a first edition has be released.
 
 
 ---
